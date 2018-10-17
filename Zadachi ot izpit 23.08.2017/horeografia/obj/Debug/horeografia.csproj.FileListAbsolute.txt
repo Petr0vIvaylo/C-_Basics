@@ -1,0 +1,5 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 23.08.2017\horeografia\bin\Debug\horeografia.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 23.08.2017\horeografia\bin\Debug\horeografia.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 23.08.2017\horeografia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 23.08.2017\horeografia\obj\Debug\horeografia.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 23.08.2017\horeografia\obj\Debug\horeografia.pdb

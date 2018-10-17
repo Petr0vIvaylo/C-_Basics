@@ -1,0 +1,5 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\18.March.2017\WorkingHours\bin\Release\WorkingHours.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\18.March.2017\WorkingHours\bin\Release\WorkingHours.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\18.March.2017\WorkingHours\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\18.March.2017\WorkingHours\obj\Release\WorkingHours.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\18.March.2017\WorkingHours\obj\Release\WorkingHours.pdb

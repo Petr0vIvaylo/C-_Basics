@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\28.August.2016\HotelRoom\bin\Debug\HotelRoom.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\28.August.2016\HotelRoom\bin\Debug\HotelRoom.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\28.August.2016\HotelRoom\bin\Debug\HotelRoom.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\28.August.2016\HotelRoom\obj\Debug\HotelRoom.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\28.August.2016\HotelRoom\obj\Debug\HotelRoom.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\28.August.2016\HotelRoom\obj\Debug\HotelRoom.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\28.August.2016\HotelRoom\obj\Debug\HotelRoom.pdb

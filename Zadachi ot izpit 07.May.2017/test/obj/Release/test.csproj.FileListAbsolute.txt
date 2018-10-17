@@ -1,0 +1,5 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 07.May.2017\test\bin\Release\test.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 07.May.2017\test\bin\Release\test.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 07.May.2017\test\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 07.May.2017\test\obj\Release\test.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 07.May.2017\test\obj\Release\test.pdb

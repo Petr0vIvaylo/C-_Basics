@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\Nested Loops\Nested Loops\bin\Debug\Nested Loops.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Nested Loops\Nested Loops\bin\Debug\Nested Loops.exe
+c:\users\user\documents\visual studio 2017\Projects\Nested Loops\Nested Loops\bin\Debug\Nested Loops.pdb
+c:\users\user\documents\visual studio 2017\Projects\Nested Loops\Nested Loops\obj\Debug\Nested Loops.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Nested Loops\Nested Loops\obj\Debug\Nested Loops.exe
+c:\users\user\documents\visual studio 2017\Projects\Nested Loops\Nested Loops\obj\Debug\Nested Loops.pdb

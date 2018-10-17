@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\03.September.2017\Cake\bin\Debug\Cake.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\03.September.2017\Cake\bin\Debug\Cake.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\03.September.2017\Cake\bin\Debug\Cake.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\03.September.2017\Cake\obj\Debug\Cake.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\03.September.2017\Cake\obj\Debug\Cake.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\03.September.2017\Cake\obj\Debug\Cake.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\03.September.2017\Cake\obj\Debug\Cake.pdb

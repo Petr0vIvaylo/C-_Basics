@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za Izpit\PerfectDiamond\bin\Debug\PerfectDiamond.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za Izpit\PerfectDiamond\bin\Debug\PerfectDiamond.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za Izpit\PerfectDiamond\bin\Debug\PerfectDiamond.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za Izpit\PerfectDiamond\obj\Debug\PerfectDiamond.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za Izpit\PerfectDiamond\obj\Debug\PerfectDiamond.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za Izpit\PerfectDiamond\obj\Debug\PerfectDiamond.pdb

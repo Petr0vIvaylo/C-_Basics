@@ -1,0 +1,5 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.March.2017 Morning\Trainers Selary\bin\Release\Trainers Selary.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.March.2017 Morning\Trainers Selary\bin\Release\Trainers Selary.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.March.2017 Morning\Trainers Selary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.March.2017 Morning\Trainers Selary\obj\Release\Trainers Selary.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.March.2017 Morning\Trainers Selary\obj\Release\Trainers Selary.pdb

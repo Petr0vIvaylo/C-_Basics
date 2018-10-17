@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Logical Checks\Rekolta\bin\Debug\Rekolta.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Logical Checks\Rekolta\bin\Debug\Rekolta.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Logical Checks\Rekolta\bin\Debug\Rekolta.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Logical Checks\Rekolta\obj\Debug\Rekolta.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Logical Checks\Rekolta\obj\Debug\Rekolta.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Logical Checks\Rekolta\obj\Debug\Rekolta.pdb

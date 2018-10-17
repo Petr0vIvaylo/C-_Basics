@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\Drawing Cycles\Rectangle of N stars\bin\Debug\Rectangle of N stars.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Drawing Cycles\Rectangle of N stars\bin\Debug\Rectangle of N stars.exe
+c:\users\user\documents\visual studio 2017\Projects\Drawing Cycles\Rectangle of N stars\bin\Debug\Rectangle of N stars.pdb
+c:\users\user\documents\visual studio 2017\Projects\Drawing Cycles\Rectangle of N stars\obj\Debug\Rectangle of N stars.exe
+c:\users\user\documents\visual studio 2017\Projects\Drawing Cycles\Rectangle of N stars\obj\Debug\Rectangle of N stars.pdb

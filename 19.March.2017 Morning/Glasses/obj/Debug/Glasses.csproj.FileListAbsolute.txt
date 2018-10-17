@@ -1,0 +1,5 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.March.2017 Morning\Glasses\bin\Debug\Glasses.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.March.2017 Morning\Glasses\bin\Debug\Glasses.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.March.2017 Morning\Glasses\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.March.2017 Morning\Glasses\obj\Debug\Glasses.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.March.2017 Morning\Glasses\obj\Debug\Glasses.pdb

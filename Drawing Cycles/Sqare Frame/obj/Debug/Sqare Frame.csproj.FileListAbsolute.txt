@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\Drawing Cycles\Sqare Frame\bin\Debug\Sqare Frame.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Drawing Cycles\Sqare Frame\bin\Debug\Sqare Frame.exe
+c:\users\user\documents\visual studio 2017\Projects\Drawing Cycles\Sqare Frame\bin\Debug\Sqare Frame.pdb
+c:\users\user\documents\visual studio 2017\Projects\Drawing Cycles\Sqare Frame\obj\Debug\Sqare Frame.exe
+c:\users\user\documents\visual studio 2017\Projects\Drawing Cycles\Sqare Frame\obj\Debug\Sqare Frame.pdb

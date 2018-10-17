@@ -1,0 +1,5 @@
+c:\Users\User\documents\visual studio 2017\Projects\Loops\Lowest Number\bin\Debug\Lowest Number.exe.config
+c:\Users\User\documents\visual studio 2017\Projects\Loops\Lowest Number\bin\Debug\Lowest Number.exe
+c:\Users\User\documents\visual studio 2017\Projects\Loops\Lowest Number\bin\Debug\Lowest Number.pdb
+c:\Users\User\documents\visual studio 2017\Projects\Loops\Lowest Number\obj\Debug\Lowest Number.exe
+c:\Users\User\documents\visual studio 2017\Projects\Loops\Lowest Number\obj\Debug\Lowest Number.pdb

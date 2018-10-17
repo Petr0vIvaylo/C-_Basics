@@ -1,0 +1,5 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot 25.June.2017\World Record\bin\Debug\World Record.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot 25.June.2017\World Record\bin\Debug\World Record.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot 25.June.2017\World Record\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot 25.June.2017\World Record\obj\Debug\World Record.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot 25.June.2017\World Record\obj\Debug\World Record.pdb

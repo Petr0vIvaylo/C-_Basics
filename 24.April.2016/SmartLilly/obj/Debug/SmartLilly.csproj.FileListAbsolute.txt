@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\24.April.2016\SmartLilly\bin\Debug\SmartLilly.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\24.April.2016\SmartLilly\bin\Debug\SmartLilly.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\24.April.2016\SmartLilly\bin\Debug\SmartLilly.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\24.April.2016\SmartLilly\obj\Debug\SmartLilly.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\24.April.2016\SmartLilly\obj\Debug\SmartLilly.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\24.April.2016\SmartLilly\obj\Debug\SmartLilly.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\24.April.2016\SmartLilly\obj\Debug\SmartLilly.pdb

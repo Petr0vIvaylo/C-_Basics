@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Complicated Checks\Rectangle Border\obj\Debug\Rectangle Border.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Complicated Checks\Rectangle Border\bin\Debug\Rectangle Border.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Complicated Checks\Rectangle Border\bin\Debug\Rectangle Border.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Complicated Checks\Rectangle Border\bin\Debug\Rectangle Border.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Complicated Checks\Rectangle Border\obj\Debug\Rectangle Border.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Complicated Checks\Rectangle Border\obj\Debug\Rectangle Border.pdb

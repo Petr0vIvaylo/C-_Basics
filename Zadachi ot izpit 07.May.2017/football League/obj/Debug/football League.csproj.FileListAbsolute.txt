@@ -1,0 +1,5 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 07.May.2017\football League\bin\Debug\football League.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 07.May.2017\football League\bin\Debug\football League.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 07.May.2017\football League\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 07.May.2017\football League\obj\Debug\football League.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 07.May.2017\football League\obj\Debug\football League.pdb

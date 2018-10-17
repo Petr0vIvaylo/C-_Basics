@@ -1,0 +1,5 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.March.2017 Morning\Vacation\bin\Debug\Vacation.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.March.2017 Morning\Vacation\bin\Debug\Vacation.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.March.2017 Morning\Vacation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.March.2017 Morning\Vacation\obj\Debug\Vacation.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.March.2017 Morning\Vacation\obj\Debug\Vacation.pdb

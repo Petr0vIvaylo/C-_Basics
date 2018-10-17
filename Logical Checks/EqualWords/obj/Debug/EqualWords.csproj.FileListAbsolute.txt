@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Logical Checks\EqualWords\bin\Debug\EqualWords.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Logical Checks\EqualWords\bin\Debug\EqualWords.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Logical Checks\EqualWords\bin\Debug\EqualWords.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Logical Checks\EqualWords\obj\Debug\EqualWords.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Logical Checks\EqualWords\obj\Debug\EqualWords.pdb

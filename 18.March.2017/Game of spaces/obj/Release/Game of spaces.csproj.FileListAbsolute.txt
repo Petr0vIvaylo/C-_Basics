@@ -1,0 +1,5 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\18.March.2017\Game of spaces\bin\Release\Game of spaces.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\18.March.2017\Game of spaces\bin\Release\Game of spaces.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\18.March.2017\Game of spaces\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\18.March.2017\Game of spaces\obj\Release\Game of spaces.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\18.March.2017\Game of spaces\obj\Release\Game of spaces.pdb

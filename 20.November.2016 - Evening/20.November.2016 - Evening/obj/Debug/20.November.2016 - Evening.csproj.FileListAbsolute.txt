@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\20.November.2016 - Evening\20.November.2016 - Evening\bin\Debug\20.November.2016 - Evening.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\20.November.2016 - Evening\20.November.2016 - Evening\bin\Debug\20.November.2016 - Evening.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\20.November.2016 - Evening\20.November.2016 - Evening\bin\Debug\20.November.2016 - Evening.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\20.November.2016 - Evening\20.November.2016 - Evening\obj\Debug\20.November.2016 - Evening.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\20.November.2016 - Evening\20.November.2016 - Evening\obj\Debug\20.November.2016 - Evening.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\20.November.2016 - Evening\20.November.2016 - Evening\obj\Debug\20.November.2016 - Evening.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\20.November.2016 - Evening\20.November.2016 - Evening\obj\Debug\20.November.2016 - Evening.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\17.September.2017\02 Three Brothers\bin\Debug\02 Three Brothers.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\17.September.2017\02 Three Brothers\bin\Debug\02 Three Brothers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\17.September.2017\02 Three Brothers\bin\Debug\02 Three Brothers.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\17.September.2017\02 Three Brothers\obj\Debug\02 Three Brothers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\17.September.2017\02 Three Brothers\obj\Debug\02 Three Brothers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\17.September.2017\02 Three Brothers\obj\Debug\02 Three Brothers.pdb

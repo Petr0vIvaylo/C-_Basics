@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Complicated Checks\Small Shop\bin\Debug\Small Shop.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Complicated Checks\Small Shop\bin\Debug\Small Shop.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Complicated Checks\Small Shop\bin\Debug\Small Shop.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Complicated Checks\Small Shop\obj\Debug\Small Shop.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Complicated Checks\Small Shop\obj\Debug\Small Shop.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Complicated Checks\Small Shop\obj\Debug\Small Shop.pdb

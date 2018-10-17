@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\ConsoleApp2\EvenorODD\obj\Debug\EvenorODD.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\ConsoleApp2\EvenorODD\bin\Debug\EvenorODD.exe.config
+c:\users\user\documents\visual studio 2017\Projects\ConsoleApp2\EvenorODD\bin\Debug\EvenorODD.exe
+c:\users\user\documents\visual studio 2017\Projects\ConsoleApp2\EvenorODD\bin\Debug\EvenorODD.pdb
+c:\users\user\documents\visual studio 2017\Projects\ConsoleApp2\EvenorODD\obj\Debug\EvenorODD.exe
+c:\users\user\documents\visual studio 2017\Projects\ConsoleApp2\EvenorODD\obj\Debug\EvenorODD.pdb

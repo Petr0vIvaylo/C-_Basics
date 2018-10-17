@@ -1,0 +1,5 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.03.2017\Bills\bin\Release\Bills.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.03.2017\Bills\bin\Release\Bills.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.03.2017\Bills\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.03.2017\Bills\obj\Release\Bills.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.03.2017\Bills\obj\Release\Bills.pdb

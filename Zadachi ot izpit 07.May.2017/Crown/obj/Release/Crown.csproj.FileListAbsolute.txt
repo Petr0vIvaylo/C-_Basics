@@ -1,0 +1,5 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 07.May.2017\Crown\bin\Release\Crown.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 07.May.2017\Crown\bin\Release\Crown.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 07.May.2017\Crown\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 07.May.2017\Crown\obj\Release\Crown.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 07.May.2017\Crown\obj\Release\Crown.pdb

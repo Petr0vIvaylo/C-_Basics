@@ -1,0 +1,15 @@
+C:\Users\Ivaikata\AppData\Local\Temporary Projects\18.March.2017\bin\Release\18.March.2017.exe
+C:\Users\Ivaikata\AppData\Local\Temporary Projects\18.March.2017\bin\Release\18.March.2017.pdb
+C:\Users\Ivaikata\AppData\Local\Temporary Projects\18.March.2017\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Ivaikata\AppData\Local\Temporary Projects\18.March.2017\obj\Release\18.March.2017.exe
+C:\Users\Ivaikata\AppData\Local\Temporary Projects\18.March.2017\obj\Release\18.March.2017.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\18.March.2017\18.March.2017\bin\Release\18.March.2017.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\18.March.2017\18.March.2017\bin\Release\18.March.2017.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\18.March.2017\18.March.2017\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\18.March.2017\18.March.2017\obj\Release\18.March.2017.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\18.March.2017\18.March.2017\obj\Release\18.March.2017.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\18.March.2017\18.March.2017\bin\Release\18.March.2017.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\18.March.2017\18.March.2017\bin\Release\18.March.2017.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\18.March.2017\18.March.2017\obj\Release\18.March.2017.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\18.March.2017\18.March.2017\obj\Release\18.March.2017.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\18.March.2017\18.March.2017\obj\Release\18.March.2017.pdb

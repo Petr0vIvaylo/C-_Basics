@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\26.March.2016\05 Butterfly\bin\Debug\05 Butterfly.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\26.March.2016\05 Butterfly\bin\Debug\05 Butterfly.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\26.March.2016\05 Butterfly\bin\Debug\05 Butterfly.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\26.March.2016\05 Butterfly\obj\Debug\05 Butterfly.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\26.March.2016\05 Butterfly\obj\Debug\05 Butterfly.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\26.March.2016\05 Butterfly\obj\Debug\05 Butterfly.pdb

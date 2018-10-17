@@ -1,0 +1,10 @@
+C:\Users\Ivaikata\AppData\Local\Temporary Projects\19.03.2017\bin\Release\19.03.2017.exe
+C:\Users\Ivaikata\AppData\Local\Temporary Projects\19.03.2017\bin\Release\19.03.2017.pdb
+C:\Users\Ivaikata\AppData\Local\Temporary Projects\19.03.2017\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Ivaikata\AppData\Local\Temporary Projects\19.03.2017\obj\Release\19.03.2017.exe
+C:\Users\Ivaikata\AppData\Local\Temporary Projects\19.03.2017\obj\Release\19.03.2017.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.03.2017\19.03.2017\obj\Release\19.03.2017.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.03.2017\19.03.2017\obj\Release\19.03.2017.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.03.2017\19.03.2017\bin\Release\19.03.2017.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.03.2017\19.03.2017\bin\Release\19.03.2017.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.03.2017\19.03.2017\obj\Release\ResolveAssemblyReference.cache

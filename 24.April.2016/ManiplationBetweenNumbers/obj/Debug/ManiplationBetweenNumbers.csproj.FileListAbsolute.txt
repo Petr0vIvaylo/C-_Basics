@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\24.April.2016\ManiplationBetweenNumbers\bin\Debug\ManiplationBetweenNumbers.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\24.April.2016\ManiplationBetweenNumbers\bin\Debug\ManiplationBetweenNumbers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\24.April.2016\ManiplationBetweenNumbers\bin\Debug\ManiplationBetweenNumbers.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\24.April.2016\ManiplationBetweenNumbers\obj\Debug\ManiplationBetweenNumbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\24.April.2016\ManiplationBetweenNumbers\obj\Debug\ManiplationBetweenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\24.April.2016\ManiplationBetweenNumbers\obj\Debug\ManiplationBetweenNumbers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\24.April.2016\ManiplationBetweenNumbers\obj\Debug\ManiplationBetweenNumbers.pdb

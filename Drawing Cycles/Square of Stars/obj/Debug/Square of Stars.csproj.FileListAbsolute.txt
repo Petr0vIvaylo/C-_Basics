@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\Drawing Cycles\Square of Stars\bin\Debug\Square of Stars.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Drawing Cycles\Square of Stars\bin\Debug\Square of Stars.exe
+c:\users\user\documents\visual studio 2017\Projects\Drawing Cycles\Square of Stars\bin\Debug\Square of Stars.pdb
+c:\users\user\documents\visual studio 2017\Projects\Drawing Cycles\Square of Stars\obj\Debug\Square of Stars.exe
+c:\users\user\documents\visual studio 2017\Projects\Drawing Cycles\Square of Stars\obj\Debug\Square of Stars.pdb

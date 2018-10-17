@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\17.July.2016\Diamant\bin\Debug\Diamant.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\17.July.2016\Diamant\bin\Debug\Diamant.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\17.July.2016\Diamant\bin\Debug\Diamant.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\17.July.2016\Diamant\obj\Debug\Diamant.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\17.July.2016\Diamant\obj\Debug\Diamant.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\17.July.2016\Diamant\obj\Debug\Diamant.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\17.July.2016\Diamant\obj\Debug\Diamant.pdb

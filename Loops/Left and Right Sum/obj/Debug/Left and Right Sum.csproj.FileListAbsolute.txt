@@ -1,0 +1,5 @@
+c:\Users\User\documents\visual studio 2017\Projects\Loops\Left and Right Sum\bin\Debug\Left and Right Sum.exe.config
+c:\Users\User\documents\visual studio 2017\Projects\Loops\Left and Right Sum\bin\Debug\Left and Right Sum.exe
+c:\Users\User\documents\visual studio 2017\Projects\Loops\Left and Right Sum\bin\Debug\Left and Right Sum.pdb
+c:\Users\User\documents\visual studio 2017\Projects\Loops\Left and Right Sum\obj\Debug\Left and Right Sum.exe
+c:\Users\User\documents\visual studio 2017\Projects\Loops\Left and Right Sum\obj\Debug\Left and Right Sum.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 23.08.2017\Group Name\bin\Release\Group Name.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 23.08.2017\Group Name\bin\Release\Group Name.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 23.08.2017\Group Name\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 23.08.2017\Group Name\obj\Release\Group Name.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 23.08.2017\Group Name\obj\Release\Group Name.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Zadachi ot izpit 23.08.2017\Group Name\bin\Release\Group Name.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Zadachi ot izpit 23.08.2017\Group Name\bin\Release\Group Name.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Zadachi ot izpit 23.08.2017\Group Name\obj\Release\Group Name.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Zadachi ot izpit 23.08.2017\Group Name\obj\Release\Group Name.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Zadachi ot izpit 23.08.2017\Group Name\obj\Release\Group Name.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Zadachi ot izpit 23.08.2017\Group Name\obj\Release\Group Name.pdb

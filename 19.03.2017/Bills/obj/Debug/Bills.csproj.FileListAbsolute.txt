@@ -1,0 +1,5 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.03.2017\Bills\bin\Debug\Bills.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.03.2017\Bills\bin\Debug\Bills.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.03.2017\Bills\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.03.2017\Bills\obj\Debug\Bills.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.03.2017\Bills\obj\Debug\Bills.pdb

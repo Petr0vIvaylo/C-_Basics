@@ -1,0 +1,5 @@
+c:\Users\User\documents\visual studio 2017\Projects\Loops\All Latin Letters\bin\Debug\All Latin Letters.exe.config
+c:\Users\User\documents\visual studio 2017\Projects\Loops\All Latin Letters\bin\Debug\All Latin Letters.exe
+c:\Users\User\documents\visual studio 2017\Projects\Loops\All Latin Letters\bin\Debug\All Latin Letters.pdb
+c:\Users\User\documents\visual studio 2017\Projects\Loops\All Latin Letters\obj\Debug\All Latin Letters.exe
+c:\Users\User\documents\visual studio 2017\Projects\Loops\All Latin Letters\obj\Debug\All Latin Letters.pdb

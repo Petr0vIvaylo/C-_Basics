@@ -1,0 +1,5 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot 25.June.2017\Money Price\bin\Release\Money Price.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot 25.June.2017\Money Price\bin\Release\Money Price.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot 25.June.2017\Money Price\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot 25.June.2017\Money Price\obj\Release\Money Price.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot 25.June.2017\Money Price\obj\Release\Money Price.pdb

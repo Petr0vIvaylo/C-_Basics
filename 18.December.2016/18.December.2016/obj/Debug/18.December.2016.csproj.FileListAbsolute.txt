@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2017\Projects\18.December.2016\18.December.2016\bin\Debug\18.December.2016.exe.config
+c:\users\user\documents\visual studio 2017\Projects\18.December.2016\18.December.2016\bin\Debug\18.December.2016.exe
+c:\users\user\documents\visual studio 2017\Projects\18.December.2016\18.December.2016\bin\Debug\18.December.2016.pdb
+c:\users\user\documents\visual studio 2017\Projects\18.December.2016\18.December.2016\obj\Debug\18.December.2016.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\18.December.2016\18.December.2016\obj\Debug\18.December.2016.csproj.CoreCompileInputs.cache
+c:\users\user\documents\visual studio 2017\Projects\18.December.2016\18.December.2016\obj\Debug\18.December.2016.exe
+c:\users\user\documents\visual studio 2017\Projects\18.December.2016\18.December.2016\obj\Debug\18.December.2016.pdb

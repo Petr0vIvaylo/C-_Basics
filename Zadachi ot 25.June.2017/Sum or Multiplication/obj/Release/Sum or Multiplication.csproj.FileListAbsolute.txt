@@ -1,0 +1,5 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot 25.June.2017\Sum or Multiplication\bin\Release\Sum or Multiplication.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot 25.June.2017\Sum or Multiplication\bin\Release\Sum or Multiplication.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot 25.June.2017\Sum or Multiplication\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot 25.June.2017\Sum or Multiplication\obj\Release\Sum or Multiplication.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot 25.June.2017\Sum or Multiplication\obj\Release\Sum or Multiplication.pdb

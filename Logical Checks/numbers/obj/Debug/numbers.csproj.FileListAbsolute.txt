@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Logical Checks\numbers\bin\Debug\numbers.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Logical Checks\numbers\bin\Debug\numbers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Logical Checks\numbers\bin\Debug\numbers.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Logical Checks\numbers\obj\Debug\numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Logical Checks\numbers\obj\Debug\numbers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Logical Checks\numbers\obj\Debug\numbers.pdb

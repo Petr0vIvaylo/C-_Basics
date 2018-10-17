@@ -1,0 +1,5 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.March.2017 Morning\19.March.2017 Morning\bin\Debug\19.March.2017 Morning.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.March.2017 Morning\19.March.2017 Morning\bin\Debug\19.March.2017 Morning.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.March.2017 Morning\19.March.2017 Morning\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.March.2017 Morning\19.March.2017 Morning\obj\Debug\19.March.2017 Morning.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.March.2017 Morning\19.March.2017 Morning\obj\Debug\19.March.2017 Morning.pdb

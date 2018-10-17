@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\26.March.2016\03 Trip\bin\Debug\03 Trip.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\26.March.2016\03 Trip\bin\Debug\03 Trip.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\26.March.2016\03 Trip\bin\Debug\03 Trip.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\26.March.2016\03 Trip\obj\Debug\03 Trip.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\26.March.2016\03 Trip\obj\Debug\03 Trip.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\26.March.2016\03 Trip\obj\Debug\03 Trip.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\26.March.2016\03 Trip\obj\Debug\03 Trip.pdb

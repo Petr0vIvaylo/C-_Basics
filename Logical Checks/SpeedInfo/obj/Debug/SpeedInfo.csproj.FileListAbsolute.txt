@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Logical Checks\SpeedInfo\bin\Debug\SpeedInfo.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Logical Checks\SpeedInfo\bin\Debug\SpeedInfo.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Logical Checks\SpeedInfo\bin\Debug\SpeedInfo.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Logical Checks\SpeedInfo\obj\Debug\SpeedInfo.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Logical Checks\SpeedInfo\obj\Debug\SpeedInfo.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Logical Checks\SpeedInfo\obj\Debug\SpeedInfo.pdb

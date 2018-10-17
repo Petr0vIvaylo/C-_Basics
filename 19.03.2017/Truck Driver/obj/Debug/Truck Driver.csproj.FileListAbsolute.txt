@@ -1,0 +1,5 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.03.2017\Truck Driver\bin\Debug\Truck Driver.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.03.2017\Truck Driver\bin\Debug\Truck Driver.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.03.2017\Truck Driver\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.03.2017\Truck Driver\obj\Debug\Truck Driver.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.03.2017\Truck Driver\obj\Debug\Truck Driver.pdb

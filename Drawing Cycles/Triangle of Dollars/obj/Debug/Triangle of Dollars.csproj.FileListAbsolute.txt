@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\Drawing Cycles\Triangle of Dollars\bin\Debug\Triangle of Dollars.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Drawing Cycles\Triangle of Dollars\bin\Debug\Triangle of Dollars.exe
+c:\users\user\documents\visual studio 2017\Projects\Drawing Cycles\Triangle of Dollars\bin\Debug\Triangle of Dollars.pdb
+c:\users\user\documents\visual studio 2017\Projects\Drawing Cycles\Triangle of Dollars\obj\Debug\Triangle of Dollars.exe
+c:\users\user\documents\visual studio 2017\Projects\Drawing Cycles\Triangle of Dollars\obj\Debug\Triangle of Dollars.pdb

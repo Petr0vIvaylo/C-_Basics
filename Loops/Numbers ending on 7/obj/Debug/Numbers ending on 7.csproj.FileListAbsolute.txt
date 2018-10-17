@@ -1,0 +1,5 @@
+c:\Users\User\documents\visual studio 2017\Projects\Loops\Numbers ending on 7\bin\Debug\Numbers ending on 7.exe.config
+c:\Users\User\documents\visual studio 2017\Projects\Loops\Numbers ending on 7\bin\Debug\Numbers ending on 7.exe
+c:\Users\User\documents\visual studio 2017\Projects\Loops\Numbers ending on 7\bin\Debug\Numbers ending on 7.pdb
+c:\Users\User\documents\visual studio 2017\Projects\Loops\Numbers ending on 7\obj\Debug\Numbers ending on 7.exe
+c:\Users\User\documents\visual studio 2017\Projects\Loops\Numbers ending on 7\obj\Debug\Numbers ending on 7.pdb

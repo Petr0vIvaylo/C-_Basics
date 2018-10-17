@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\Drawing Cycles\Rhombus of Stars\bin\Debug\Rhombus of Stars.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Drawing Cycles\Rhombus of Stars\bin\Debug\Rhombus of Stars.exe
+c:\users\user\documents\visual studio 2017\Projects\Drawing Cycles\Rhombus of Stars\bin\Debug\Rhombus of Stars.pdb
+c:\users\user\documents\visual studio 2017\Projects\Drawing Cycles\Rhombus of Stars\obj\Debug\Rhombus of Stars.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Drawing Cycles\Rhombus of Stars\obj\Debug\Rhombus of Stars.exe
+c:\users\user\documents\visual studio 2017\Projects\Drawing Cycles\Rhombus of Stars\obj\Debug\Rhombus of Stars.pdb

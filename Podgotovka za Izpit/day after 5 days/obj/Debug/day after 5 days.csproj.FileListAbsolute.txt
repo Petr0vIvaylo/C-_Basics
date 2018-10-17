@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za Izpit\day after 5 days\bin\Debug\day after 5 days.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za Izpit\day after 5 days\bin\Debug\day after 5 days.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za Izpit\day after 5 days\bin\Debug\day after 5 days.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za Izpit\day after 5 days\obj\Debug\day after 5 days.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za Izpit\day after 5 days\obj\Debug\day after 5 days.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za Izpit\day after 5 days\obj\Debug\day after 5 days.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za Izpit\day after 5 days\obj\Debug\day after 5 days.pdb

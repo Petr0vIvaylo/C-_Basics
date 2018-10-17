@@ -1,0 +1,10 @@
+C:\Users\Ivaikata\AppData\Local\Temporary Projects\Zadachi ot 25.June.2017\bin\Release\Zadachi ot 25.June.2017.exe
+C:\Users\Ivaikata\AppData\Local\Temporary Projects\Zadachi ot 25.June.2017\bin\Release\Zadachi ot 25.June.2017.pdb
+C:\Users\Ivaikata\AppData\Local\Temporary Projects\Zadachi ot 25.June.2017\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Ivaikata\AppData\Local\Temporary Projects\Zadachi ot 25.June.2017\obj\Release\Zadachi ot 25.June.2017.exe
+C:\Users\Ivaikata\AppData\Local\Temporary Projects\Zadachi ot 25.June.2017\obj\Release\Zadachi ot 25.June.2017.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot 25.June.2017\Zadachi ot 25.June.2017\obj\Release\Zadachi ot 25.June.2017.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot 25.June.2017\Zadachi ot 25.June.2017\obj\Release\Zadachi ot 25.June.2017.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot 25.June.2017\Zadachi ot 25.June.2017\bin\Release\Zadachi ot 25.June.2017.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot 25.June.2017\Zadachi ot 25.June.2017\bin\Release\Zadachi ot 25.June.2017.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot 25.June.2017\Zadachi ot 25.June.2017\obj\Release\ResolveAssemblyReference.cache

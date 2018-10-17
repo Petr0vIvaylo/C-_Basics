@@ -1,0 +1,5 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot 25.June.2017\Triangle\bin\Debug\Triangle.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot 25.June.2017\Triangle\bin\Debug\Triangle.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot 25.June.2017\Triangle\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot 25.June.2017\Triangle\obj\Debug\Triangle.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot 25.June.2017\Triangle\obj\Debug\Triangle.pdb

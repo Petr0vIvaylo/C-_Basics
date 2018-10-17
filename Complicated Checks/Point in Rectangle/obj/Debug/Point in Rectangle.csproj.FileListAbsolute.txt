@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Complicated Checks\Point in Rectangle\bin\Debug\Point in Rectangle.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Complicated Checks\Point in Rectangle\bin\Debug\Point in Rectangle.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Complicated Checks\Point in Rectangle\bin\Debug\Point in Rectangle.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Complicated Checks\Point in Rectangle\obj\Debug\Point in Rectangle.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Complicated Checks\Point in Rectangle\obj\Debug\Point in Rectangle.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\20.November.2016 Morning\20.November.2016 Morning\bin\Debug\20.November.2016 Morning.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\20.November.2016 Morning\20.November.2016 Morning\bin\Debug\20.November.2016 Morning.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\20.November.2016 Morning\20.November.2016 Morning\bin\Debug\20.November.2016 Morning.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\20.November.2016 Morning\20.November.2016 Morning\obj\Debug\20.November.2016 Morning.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\20.November.2016 Morning\20.November.2016 Morning\obj\Debug\20.November.2016 Morning.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\20.November.2016 Morning\20.November.2016 Morning\obj\Debug\20.November.2016 Morning.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\20.November.2016 Morning\20.November.2016 Morning\obj\Debug\20.November.2016 Morning.pdb

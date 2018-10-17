@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za Izpit\increasing elements\bin\Debug\increasing elements.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za Izpit\increasing elements\bin\Debug\increasing elements.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za Izpit\increasing elements\bin\Debug\increasing elements.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za Izpit\increasing elements\obj\Debug\increasing elements.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za Izpit\increasing elements\obj\Debug\increasing elements.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za Izpit\increasing elements\obj\Debug\increasing elements.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za Izpit\increasing elements\obj\Debug\increasing elements.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\26.March.2016\04 Delene bez Ostatk\bin\Debug\04 Delene bez Ostatk.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\26.March.2016\04 Delene bez Ostatk\bin\Debug\04 Delene bez Ostatk.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\26.March.2016\04 Delene bez Ostatk\bin\Debug\04 Delene bez Ostatk.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\26.March.2016\04 Delene bez Ostatk\obj\Debug\04 Delene bez Ostatk.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\26.March.2016\04 Delene bez Ostatk\obj\Debug\04 Delene bez Ostatk.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\26.March.2016\04 Delene bez Ostatk\obj\Debug\04 Delene bez Ostatk.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\26.March.2016\04 Delene bez Ostatk\obj\Debug\04 Delene bez Ostatk.pdb

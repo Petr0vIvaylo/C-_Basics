@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\Simple Calculations\Simple Calculations\bin\Debug\Simple Calculations.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Simple Calculations\Simple Calculations\bin\Debug\Simple Calculations.exe
+c:\users\user\documents\visual studio 2017\Projects\Simple Calculations\Simple Calculations\bin\Debug\Simple Calculations.pdb
+c:\users\user\documents\visual studio 2017\Projects\Simple Calculations\Simple Calculations\obj\Debug\Simple Calculations.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Simple Calculations\Simple Calculations\obj\Debug\Simple Calculations.exe
+c:\users\user\documents\visual studio 2017\Projects\Simple Calculations\Simple Calculations\obj\Debug\Simple Calculations.pdb

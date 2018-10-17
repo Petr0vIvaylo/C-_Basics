@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\ConsoleApp2\Number to Text\bin\Debug\Number to Text.exe.config
+c:\users\user\documents\visual studio 2017\Projects\ConsoleApp2\Number to Text\bin\Debug\Number to Text.exe
+c:\users\user\documents\visual studio 2017\Projects\ConsoleApp2\Number to Text\bin\Debug\Number to Text.pdb
+c:\users\user\documents\visual studio 2017\Projects\ConsoleApp2\Number to Text\obj\Debug\Number to Text.exe
+c:\users\user\documents\visual studio 2017\Projects\ConsoleApp2\Number to Text\obj\Debug\Number to Text.pdb

@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2017\Projects\03.September.2017\Scolarship\bin\Debug\Scolarship.exe.config
+c:\users\user\documents\visual studio 2017\Projects\03.September.2017\Scolarship\bin\Debug\Scolarship.exe
+c:\users\user\documents\visual studio 2017\Projects\03.September.2017\Scolarship\bin\Debug\Scolarship.pdb
+c:\users\user\documents\visual studio 2017\Projects\03.September.2017\Scolarship\obj\Debug\Scolarship.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\03.September.2017\Scolarship\obj\Debug\Scolarship.csproj.CoreCompileInputs.cache
+c:\users\user\documents\visual studio 2017\Projects\03.September.2017\Scolarship\obj\Debug\Scolarship.exe
+c:\users\user\documents\visual studio 2017\Projects\03.September.2017\Scolarship\obj\Debug\Scolarship.pdb

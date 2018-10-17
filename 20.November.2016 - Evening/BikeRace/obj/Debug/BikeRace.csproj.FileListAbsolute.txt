@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\20.November.2016 - Evening\BikeRace\bin\Debug\BikeRace.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\20.November.2016 - Evening\BikeRace\bin\Debug\BikeRace.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\20.November.2016 - Evening\BikeRace\bin\Debug\BikeRace.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\20.November.2016 - Evening\BikeRace\obj\Debug\BikeRace.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\20.November.2016 - Evening\BikeRace\obj\Debug\BikeRace.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\20.November.2016 - Evening\BikeRace\obj\Debug\BikeRace.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\20.November.2016 - Evening\BikeRace\obj\Debug\BikeRace.pdb

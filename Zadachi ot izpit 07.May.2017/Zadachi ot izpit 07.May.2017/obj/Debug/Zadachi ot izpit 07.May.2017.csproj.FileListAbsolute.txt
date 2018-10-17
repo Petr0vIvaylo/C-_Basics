@@ -1,0 +1,5 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 07.May.2017\Zadachi ot izpit 07.May.2017\bin\Debug\Zadachi ot izpit 07.May.2017.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 07.May.2017\Zadachi ot izpit 07.May.2017\bin\Debug\Zadachi ot izpit 07.May.2017.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 07.May.2017\Zadachi ot izpit 07.May.2017\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 07.May.2017\Zadachi ot izpit 07.May.2017\obj\Debug\Zadachi ot izpit 07.May.2017.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\Zadachi ot izpit 07.May.2017\Zadachi ot izpit 07.May.2017\obj\Debug\Zadachi ot izpit 07.May.2017.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ivaikata\AppData\Local\Temporary Projects\19.March.2017 Morning\bin\Release\19.March.2017 Morning.exe
+C:\Users\Ivaikata\AppData\Local\Temporary Projects\19.March.2017 Morning\bin\Release\19.March.2017 Morning.pdb
+C:\Users\Ivaikata\AppData\Local\Temporary Projects\19.March.2017 Morning\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Ivaikata\AppData\Local\Temporary Projects\19.March.2017 Morning\obj\Release\19.March.2017 Morning.exe
+C:\Users\Ivaikata\AppData\Local\Temporary Projects\19.March.2017 Morning\obj\Release\19.March.2017 Morning.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.March.2017 Morning\19.March.2017 Morning\obj\Release\19.March.2017 Morning.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.March.2017 Morning\19.March.2017 Morning\obj\Release\19.March.2017 Morning.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.March.2017 Morning\19.March.2017 Morning\bin\Release\19.March.2017 Morning.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.March.2017 Morning\19.March.2017 Morning\bin\Release\19.March.2017 Morning.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.March.2017 Morning\19.March.2017 Morning\obj\Release\ResolveAssemblyReference.cache

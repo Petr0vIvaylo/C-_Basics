@@ -1,0 +1,5 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.03.2017\styrofoam\bin\Debug\styrofoam.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.03.2017\styrofoam\bin\Debug\styrofoam.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.03.2017\styrofoam\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.03.2017\styrofoam\obj\Debug\styrofoam.exe
+C:\Users\Ivaikata\Documents\Visual Studio 2008\Projects\19.03.2017\styrofoam\obj\Debug\styrofoam.pdb

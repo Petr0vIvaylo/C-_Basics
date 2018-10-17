@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\18.December.2016\changeTiles\bin\Debug\changeTiles.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\18.December.2016\changeTiles\bin\Debug\changeTiles.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\18.December.2016\changeTiles\bin\Debug\changeTiles.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\18.December.2016\changeTiles\obj\Debug\changeTiles.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\18.December.2016\changeTiles\obj\Debug\changeTiles.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\18.December.2016\changeTiles\obj\Debug\changeTiles.pdb

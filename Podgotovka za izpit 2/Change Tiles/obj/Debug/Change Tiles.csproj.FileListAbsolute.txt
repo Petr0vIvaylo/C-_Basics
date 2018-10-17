@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za izpit 2\Change Tiles\bin\Debug\Change Tiles.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za izpit 2\Change Tiles\bin\Debug\Change Tiles.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za izpit 2\Change Tiles\bin\Debug\Change Tiles.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za izpit 2\Change Tiles\obj\Debug\Change Tiles.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za izpit 2\Change Tiles\obj\Debug\Change Tiles.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za izpit 2\Change Tiles\obj\Debug\Change Tiles.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Podgotovka za izpit 2\Change Tiles\obj\Debug\Change Tiles.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\28.August.2016\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\28.August.2016\Hospital\bin\Debug\Hospital.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\28.August.2016\Hospital\bin\Debug\Hospital.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\28.August.2016\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\28.August.2016\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\28.August.2016\Hospital\obj\Debug\Hospital.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\28.August.2016\Hospital\obj\Debug\Hospital.pdb
